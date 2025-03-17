@@ -17,4 +17,5 @@ COPY . .
 EXPOSE 8000
 
 # Command to run the application
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
+# CMD ["gunicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:8000", "app:app"]
