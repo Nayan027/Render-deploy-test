@@ -2,17 +2,17 @@
 # Render-deploy-test on a Flask-app
 This is a basic test project to test a new serverless deployment method using Render.
 
-### App going Live on render.com
+## App going Live on render.com
 ![image alt](https://github.com/Nayan027/Render-deploy-test-flaskapp/blob/c1782b4d92a828fd2c2e2c67e4cb124e2c6d41e3/rendertest2.PNG)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### Link to our deployed app 
+## Link to our deployed app 
 ![image alt](https://github.com/Nayan027/Render-deploy-test-flaskapp/blob/c1782b4d92a828fd2c2e2c67e4cb124e2c6d41e3/rendertest3.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Status of all our web services i.e. projects
+## Status of all our web services i.e. projects
 ![image alt](https://github.com/Nayan027/Render-deploy-test-flaskapp/blob/c1782b4d92a828fd2c2e2c67e4cb124e2c6d41e3/rendertest.PNG)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
